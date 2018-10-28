@@ -1,0 +1,85 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kake Da Daba",
+        "hours": "6am - 5pm",
+        "phone": "9622164147",
+        "description": "Hot and Delicious Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8394442725612,
+          32.74386602710115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prem Di Hatti",
+        "hours": "9am - 4pm",
+        "phone": "9682612781",
+        "description": "Delicious Sweets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8502362435172,
+          32.75193869776113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hungry Point",
+        "hours": "10am - 8pm",
+        "phone": "9797534868",
+        "description": "Fast Food "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.83215468692242,
+          32.755845505057278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Books Store",
+        "hours": "8am - 5:30pm",
+        "phone": "7006900787",
+        "description": "Description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.81919040711879,
+          32.76094142574654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikram Dhaba",
+        "hours": "9:30am - 6pm",
+        "phone": "9797565438",
+        "description": "Description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.80148178178877,
+          32.76293079361797
+        ]
+      }
+    }
+  ]
+}
